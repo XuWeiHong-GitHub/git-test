@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Hello five");
         System.out.println("Hello hot-fix again");
         System.out.println("Hello hot-fix3");
+        System.out.println("push text");
     }
 }
