@@ -12,5 +12,7 @@ public class Main {
         System.out.println("Hello hot-fix");
         System.out.println("Hello four");
         System.out.println("Hello five");
+        System.out.println("Hello hot-fix again");
+        System.out.println("Hello hot-fix3");
     }
 }
